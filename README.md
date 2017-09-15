@@ -3,4 +3,4 @@ Repository for beginners
 
 Hi guys!
 
-Balza is here. I'm here to learn....
+Balza is here. I'm here to learn....as much as I can!
